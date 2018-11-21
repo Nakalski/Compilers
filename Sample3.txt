@@ -1,0 +1,8 @@
+inicio
+int : x , y , z ;
+leia ( x ) ;
+leia ( y ) ;
+z := x + y ;
+y := ( ( z * x ) + ( y * z) ) * 25 ;
+escreva ( y ) ;
+fim 
