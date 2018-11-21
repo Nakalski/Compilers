@@ -1,0 +1,6 @@
+/* programa de exemplo */
+inicio /* início do programa */
+int : x ; /* Declaração de variáveis */
+leia ( x ) ; /* entrada de um número */
+escreva ( x ) ; /* saída de um número */
+fim /* término do programa */
